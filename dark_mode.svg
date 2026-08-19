@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">dokuo@github</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">iamdokuo</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value" id="age_data">19 years</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value" id="age_data">19 years</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Student</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">India</tspan>
 <tspan x="390" y="150" class="cc"> </tspan>
