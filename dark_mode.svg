@@ -39,29 +39,27 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="410">    .:++++++xXXx+;;;;;;;+xxx++++++          </tspan>
 <tspan x="15" y="430">     +++++++++xxxx+xx++++++++++.            </tspan>
 <tspan x="15" y="450">     :++++++;;:;;;++;;;;;+++++;            </tspan>
-<tspan x="15" y="470">      ;+++++x++++xxxx++++++++;. .          </tspan>
-<tspan x="15" y="490">.      ;;++++x+++;;;++++++;;;.      </tspan>
+<tspan x="15" y="470">      ;+++++x++++xxxx++++++++;.           </tspan>
+<tspan x="15" y="490">       ;;++++x+++;;;++++++;;;.      </tspan>
 <tspan x="15" y="510">       ;;;;++++++++++++++;;:   </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Android 14, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
+<tspan x="390" y="30">dokuo@github</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc"> ................................................................... </tspan><tspan class="value">iamdokuo</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"> ....................................... </tspan><tspan class="value" id="age_data">19 years</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ...................................................................... </tspan><tspan class="value">Student</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ..................................................................... </tspan><tspan class="value">India</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Spanish</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Java, Python, JavaScript, C</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">English, Hindi, Urdu</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Overclocking, Undervolting</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Reading, Building, Gaming, Travelling</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">agrantnmac@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">andrew@grant.software</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Andrew.Grant@ttmtech.com</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Andrew6rant</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">andrew6rant</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Github</tspan>:<tspan class="cc"> .................................................................... </tspan><tspan class="value">iamdokuo</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................................................... </tspan><tspan class="value">dokuo.main@gmail.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................................................ </tspan><tspan class="value">coming soon</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................................................... </tspan><tspan class="value">coming soon</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ................................................................ </tspan><tspan class="value">coming soon</tspan>
 </text>
 </svg>
