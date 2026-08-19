@@ -12,7 +12,6 @@ import hashlib
 HEADERS = {'authorization': 'token '+ os.environ['ACCESS_TOKEN']}
 USER_NAME = 'iamdokuo'  # Your GitHub username
 OWNER_NAME = 'Dokuo'  # Your display name
-ACCOUNT_CREATED = datetime.datetime(2026, 8, 18)  # Account creation date
 QUERY_COUNT = {'user_getter': 0, 'follower_getter': 0, 'graph_repos_stars': 0, 'recursive_loc': 0, 'graph_commits': 0, 'loc_query': 0}
 
 
@@ -435,7 +434,8 @@ if __name__ == '__main__':
     formatter('account data', user_time)
     
     # Calculate account age (since account was created yesterday)
-    age_data, age_time = perf_counter(daily_readme, ACCOUNT_CREATED)
+    account_created = datetime.datetime.fromisoformat(acc_date.replace('Z', '+00:00')).replace(tzinfo=None)
+    age_data, age_time = perf_counter(daily_readme, account_created)
     formatter('account age', age_time)
     
     # Fetch LOC data (lines of code)
