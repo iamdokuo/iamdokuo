@@ -45,16 +45,16 @@ text, tspan {white-space: pre;}
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">dokuo@github</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">iamdokuo</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">iamdokuo</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"> ................................... </tspan><tspan class="value" id="age_data">19 years</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">Student</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">India</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">India</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Java, Python, JavaScript, C</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">English, Hindi, Urdu</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, JSON</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">English, Hindi, Urdu</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Reading, Building, Gaming, Travelling</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Reading, Building, Gaming, Travelling</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Github</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">iamdokuo</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">dokuo.main@gmail.com</tspan>
