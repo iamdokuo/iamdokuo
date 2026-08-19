@@ -16,7 +16,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#ffffff" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
+<text x="15" y="30" fill="#111827" class="ascii">
 <tspan x="15" y="30">           :;xXXxx++:.                   </tspan>
 <tspan x="15" y="50">        .+xXXx+++++++;;++:             </tspan>
 <tspan x="15" y="70">       :+x+++;;;;::::::;;;;;;;:           </tspan>
