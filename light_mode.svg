@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1200px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii" font-size="13px">
+<tspan x="15" y="30">                               :;xXXxx++:.                            </tspan>
+<tspan x="15" y="48">                           .+xXXx+++++++;;++:                         </tspan>
+<tspan x="15" y="66">                        :+x+++;;;;::::::;;;;;;;:                      </tspan>
+<tspan x="15" y="84">                     .;++;;;;;;:::;;;;;;::::::::;:                    </tspan>
+<tspan x="15" y="102">                    :;;;;;;;;;;;+++++++++++;;::::::.                  </tspan>
+<tspan x="15" y="120">                    :;::;::;;++XXXXXXXXXXXXxx+;:::::.                 </tspan>
+<tspan x="15" y="138">                   .;::::;;+xxXXXXXXXXXXXXXXXXx+::::;:                </tspan>
+<tspan x="15" y="156">                  .;:::;++xxXXXXXXXXXXXXXXxxxxxx+;::;:                </tspan>
+<tspan x="15" y="174">                  :;::;xXXXXXXXXXXXXXXXXXXXxxxxxx+:::;                </tspan>
+<tspan x="15" y="192">                  .:::+xXXXXXXXXXXXXXXXXXXXXxxxxx+:::;.               </tspan>
+<tspan x="15" y="210">                  .;::+XXXXxxxxXXXXXXXXXXXxxxxxxx+::::                </tspan>
+<tspan x="15" y="228">                   :::+x;;:::::;;+xxXxx+++;;;;;+x+::::                </tspan>
+<tspan x="15" y="246">                   .::x+++;;;::::;;+++;;:::::;;;;;:::                 </tspan>
+<tspan x="15" y="264">                  :+;;X++;;;:::::;+XX+;;:::::;;;+;::                  </tspan>
+<tspan x="15" y="282">                  ;+++XXxx++++++++xXXX++++;;;;;;++::                  </tspan>
+<tspan x="15" y="300">                  +x+XXXXXXXXXXxxXXXXXx++xx++++xx+;;                  </tspan>
+<tspan x="15" y="318">                  :x+xXXXXXXXXXXxXXX$XXxxXXXXXXxx++;                  </tspan>
+<tspan x="15" y="336">                   +x+xxxXXXXXXXXXXXXXXXxXXXXxxx+++:                  </tspan>
+<tspan x="15" y="354">                   ;XXxxxxxXXXX+;;;++;;;+xXxxx++++:                   </tspan>
+<tspan x="15" y="372">                    .:++++++xXXx+;;;;;;;+xxx++++++                    </tspan>
+<tspan x="15" y="390">                      +++++++++xxxx+xx++++++++++.                     </tspan>
+<tspan x="15" y="408">                      :++++++;;:;;;++;;;;;+++++;                      </tspan>
+<tspan x="15" y="426">                       ;+++++x++++xxxx++++++++;.                      </tspan>
+<tspan x="15" y="444">                        ;;++++x+++;;;++++++;;;.                       </tspan>
+<tspan x="15" y="462">                        ;;;;++++++++++++++;;:                         </tspan>
+<tspan x="15" y="480">                        ++;;;+++++x+++++;;;;;                         </tspan>
+<tspan x="15" y="498">                      .:;++;;::;;;;;;;;::;;;:.                        </tspan>
+<tspan x="15" y="516">                     :::;+++;;::::::::::;;;;:.::::..</tspan>
+</text>
+<text x="520" y="30" fill="#24292f">
+<tspan x="520" y="30">dokuo@github</tspan> -———————————————————————————————————————————-—-
+<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">iamdokuo</tspan>
+<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Age</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 4 months, 6 days</tspan>
+<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Account Created</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">August 18, 2026</tspan>
+<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Developer</tspan>
+<tspan x="520" y="130" class="cc">. </tspan>
+<tspan x="520" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Python, JavaScript, Java, C++</tspan>
+<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Open Source, Web Dev, Automation</tspan>
+<tspan x="520" y="190" class="cc">. </tspan>
+<tspan x="520" y="230">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="520" y="270" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="520" y="290" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
